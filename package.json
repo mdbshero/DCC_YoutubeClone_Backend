@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "joi": "^17.6.0",
+    "mongoose": "^6.2.10",
+    "node": "^17.7.2",
+    "nodemon": "^2.0.15"
+  },
+  "name": "dcc-youtubeclone-backend",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmbare/DCC-YoutubeClone-Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmbare/DCC-YoutubeClone-Backend/issues"
+  },
+  "homepage": "https://github.com/gmbare/DCC-YoutubeClone-Backend#readme"
+}
